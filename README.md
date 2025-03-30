@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/markromolecule" target="_blank">
-    <img width="50%" alt="Hello, I'm Joseph!" src="https://i.pinimg.com/originals/5f/93/49/5f934966a1d20bae1909c9ef2278bd4c.gif" />
+    <img width="50%" alt="Hello, I'm Joseph!" src="https://i.pinimg.com/originals/68/3a/43/683a43a11a8b31a71694544b4226d069.gif" />
   </a>
 </p>
 
