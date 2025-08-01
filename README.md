@@ -8,7 +8,7 @@
 
 <p align="center">
   <code><img height="20" alt="Java" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
-  <code><img height="20" alt="Android" src="https://raw.githubusercontent.com/github/explore/main/topics/android/android.png"></code>
+  <code><img height="20" alt="Android" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
   <code><img height="20" alt="MySQL" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
   <code><img height="20" alt="PHP" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png"></code>
 </p>
