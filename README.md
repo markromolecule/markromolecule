@@ -1,7 +1,8 @@
 <p align="center">
   <a href="https://github.com/markromolecule" target="_blank">
-    <img width="50%" alt="Hello, I'm Joseph!" src="https://i.pinimg.com/originals/9d/d1/a0/9dd1a0c90caa865e3718947e2b91d35e.gif" />
+    <img width="40%" alt="Hello, I'm Joseph!" src="https://i.pinimg.com/originals/9d/d1/a0/9dd1a0c90caa865e3718947e2b91d35e.gif" />
   </a>
+  <img width="35%" alt="Hello again!" src="https://i.pinimg.com/originals/b5/71/95/b57195740555db2993f209e0b0ed9ae4.gif" />
 </p>
 
 
