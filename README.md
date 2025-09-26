@@ -4,23 +4,29 @@
   </a>
 </p>
 
-<br />
 
 <p align="center">
-  <code><img height="30" alt="PHP" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png"></code>
-  <code><img height="30" alt="React" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
+  <code><img height="30" alt="Laravel" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png"></code>
+  <code><img height="30" alt="Docker" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
   <code><img height="30" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
   <code><img height="30" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
-  <code><img height="30" alt="Node.js" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
-  <code><img height="30" alt="MySQL" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
-  
+  <code><img height="30" alt="Supabase" src="https://raw.githubusercontent.com/github/explore/main/topics/supabase/supabase.png"></code>
 </p>
 
-<br />
 
 <div align="center">
 
-| <a href="https://github.com/markromolecule" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=markromolecule&theme=dark&hide_border=true&count_private=true&show_icons=true&include_all_commits=true" alt="Mark Joseph Livado's GitHub Stats" /></a> | <a href="https://github.com/markromolecule" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markromolecule&layout=compact&theme=dark&hide_border=true" /></a> |
+| <a href="https://github.com/markromolecule" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=markromolecule&theme=dark&hide_border=true&count_private=true&show_icons=true&include_all_commits=true" alt="Mark Joseph Livado's GitHub Stats" /></a> | <a href="https://github.com/markromolecule" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markromolecule&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 </div>
+
+---
+
+### 🎓 Certification
+
+<p align="center">
+  <a href="https://www.credly.com/badges/e5c4ce97-eabc-44c4-9453-f0e970b1977d/public_url" target="_blank">
+    <img src="https://images.credly.com/images/49a492cd-5f72-4c9d-aafa-06649e4853fb/MicrosoftTeams-image__5_.png" alt="Microsoft IT Specialist: Databases" width="140" />
+  </a>
+</p>
