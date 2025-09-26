@@ -7,11 +7,11 @@
 <br />
 
 <p align="center">
+  <code><img height="30" alt="PHP" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png"></code>
   <code><img height="30" alt="React" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
   <code><img height="30" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
   <code><img height="30" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
   <code><img height="30" alt="Node.js" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
-  <code><img height="30" alt="PHP" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png"></code>
   <code><img height="30" alt="MySQL" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
   
 </p>
