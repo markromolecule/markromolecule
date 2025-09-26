@@ -27,6 +27,6 @@
 
 <p align="center">
   <a href="https://www.credly.com/badges/e5c4ce97-eabc-44c4-9453-f0e970b1977d/public_url" target="_blank">
-    <img src="https://images.credly.com/images/49a492cd-5f72-4c9d-aafa-06649e4853fb/MicrosoftTeams-image__5_.png" alt="Microsoft IT Specialist: Databases" width="140" />
+    <img src="https://images.credly.com/images/49a492cd-5f72-4c9d-aafa-06649e4853fb/MicrosoftTeams-image__5_.png" alt="Microsoft IT Specialist: Databases" width="100" />
   </a>
 </p>
