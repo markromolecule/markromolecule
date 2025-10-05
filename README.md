@@ -8,10 +8,9 @@
 
 <p align="center">
   <code><img height="30" alt="Laravel" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png"></code>
-  <code><img height="30" alt="Docker" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
-  <code><img height="30" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
+  <code><img height="30" alt="Laravel" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
   <code><img height="30" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
-  <code><img height="30" alt="Supabase" src="https://raw.githubusercontent.com/github/explore/main/topics/supabase/supabase.png"></code>
+  <code><img height="30" alt="Laravel" src="https://raw.githubusercontent.com/github/explore/main/topics/supabase/supabase.png"></code>
 </p>
 
 
