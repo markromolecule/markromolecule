@@ -7,10 +7,10 @@
 
 
 <p align="center">
-  <code><img height="30" alt="Laravel" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png"></code>
-  <code><img height="30" alt="Laravel" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
-  <code><img height="30" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
-  <code><img height="30" alt="Laravel" src="https://raw.githubusercontent.com/github/explore/main/topics/supabase/supabase.png"></code>
+  <code><img height="32" alt="Laravel" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png"></code>
+  <code><img height="32" alt="Laravel" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
+  <code><img height="32" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
+  <code><img height="32" alt="Laravel" src="https://raw.githubusercontent.com/github/explore/main/topics/supabase/supabase.png"></code>
 </p>
 
 
