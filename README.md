@@ -12,12 +12,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=markromolecule&theme=default&hide_border=true" alt="markromolecule's GitHub Streak" />
-
-<br/><br/>
-
-| <a href="https://github.com/markromolecule" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=markromolecule&theme=dark&hide_border=true&count_private=true&show_icons=true&include_all_commits=true" alt="Mark Joseph Livado's GitHub Stats" /></a> | <a href="https://github.com/markromolecule" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markromolecule&layout=compact&theme=dark&hide_border=true" /></a> |
-| ------------- | ------------- |
+<img src="https://streak-stats.demolab.com?user=markromolecule&theme=tokyonight&hide_border=true" alt="markromolecule's GitHub Stats" />
 
 </div>
 
