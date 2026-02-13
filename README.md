@@ -5,14 +5,16 @@
   <img width="35%" alt="Hello again!" src="https://i.pinimg.com/originals/b5/71/95/b57195740555db2993f209e0b0ed9ae4.gif" />
 </p>
 
-
 <p align="center">
   <code><img height="32" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
   <code><img height="32" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
 </p>
 
-
 <div align="center">
+
+<img src="https://streak-stats.demolab.com?user=markromolecule&theme=default&hide_border=true" alt="markromolecule's GitHub Streak" />
+
+<br/><br/>
 
 | <a href="https://github.com/markromolecule" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=markromolecule&theme=dark&hide_border=true&count_private=true&show_icons=true&include_all_commits=true" alt="Mark Joseph Livado's GitHub Stats" /></a> | <a href="https://github.com/markromolecule" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markromolecule&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
