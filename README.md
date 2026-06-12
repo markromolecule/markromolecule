@@ -6,8 +6,9 @@
 </p>
 
 <p align="center">
-  <code><img height="32" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
-  <code><img height="32" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
+  <code><img height="34" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
+  <code><img height="34" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
+  <code><img height="34" alt="Hono" src="https://raw.githubusercontent.com/honojs/hono/main/docs/images/hono-logo.png"></code>
 </p>
 
 <div align="center">
