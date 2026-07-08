@@ -10,11 +10,6 @@
   <code><img height="34" alt="Hono" src="https://raw.githubusercontent.com/honojs/hono/main/docs/images/hono-logo.png"></code>
   <code><img height="34" alt="Astro" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg"></code>
 </p>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=markromolecule&theme=tokyonight&hide_border=true" alt="markromolecule's GitHub Stats" />
-
 </div>
 
 ---
